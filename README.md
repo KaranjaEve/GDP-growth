@@ -24,9 +24,13 @@ Python
 **The European Union**
 
 European Union (EU) comprises of 27 countries as of 01.01.2025 . Croatia is the newest member, having joined in 2013 .The United Kingdom left the EU on 01.02.2020 following Brexit .
+
 EU members:
+
 Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden.
-The Euro Area(EA)
+
+**The Euro Area(EA)**
+
 It is made up of 20 EU member states that use the euro (€) as their primary currency and sole legal tender.  
 
 EA members:

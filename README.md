@@ -2,8 +2,8 @@
 
 **1. Overview**
 
-This project explores the GDP growth trends of the European Union (EU) and the Euro Area (EA) from 2008 to 2024
-It investigates  the effects of major economic and geo-political events as well as the social and health crisis . These include the 2008 financial crisis, COVID-19 pandemic, and 2021–2022 energy crisis 
+This project explores various reasons the GDP growth trends of the European Union (EU) and the Euro Area (EA) from 2008 to 2024.
+It investigates  the effects of major economic and geo-political events as well as social and health crisis . These include the 2008 financial crisis, COVID-19 pandemic, and 2021–2022 energy crisis that had a great impact on EU's gdp growth rate
 
 **2. Data Source**
 Dataset: UN Data - GDP growth (annual %)
@@ -19,7 +19,7 @@ Jupyter Notebook
 
 Python 
 
-**Interpretation**
+**Summary**
 
 **The European Union**
 
@@ -39,14 +39,14 @@ Austria, Belgium, Croatia, Cyprus, Estonia, Finland, France, Germany, Greece, Ir
 
 Explanation
 
-**The 2008 -2009 Global financial crisis** explains the decrease in GDP growth (as seen in GDP Growth rate.png) in both the EA and EU. Both economies were however  quick to recover due to various fiscal and monetary policies adopted by the EU and EA, most notably the European economic recovery plan (EERP) that was launched in 2008. 
+**The 2008 -2009 Global financial crisis** explains the decrease in GDP growth (as seen in GDP Growth rate.png) in both the EA and EU. Both economies however recovered fast due to various fiscal and monetary policies adopted by the EU and EA, most notably the European economic recovery plan (EERP) that was launched in 2008. 
 The European Central Bank (ECB) supported  the banking sector liquidity and accommodated for  funding needs through:
-increase of deposit insurance ceilings
-providing guarantees for bank liabilities
+increase of deposit insurance ceilings,
+providing guarantees for bank liabilities,
 recapitalising banks. 
 Governments also increased their welfare payments as well as tax relief and subsidies for part time employment
 
-**2010’s**
+**2010’s Debt crisis**
 
 These fiscal policies continued in the 2010’s as both the EU and EA saw the need to strengthen their economies to avoid a major disruption due to economic shocks as previously experienced. The bodies focused on reducing government debts to prevent future sovereign defaults in order to enhance economic resilience. 
 It is important to note that the Euro Area went further to introduce a temporary crisis resolution mechanism providing financial assistance (complemented by bilateral loans) and funded through issuing bonds and other debt instruments on capital markets – The European financial stability mechanism(EFSM).

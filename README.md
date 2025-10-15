@@ -39,6 +39,9 @@ Austria, Belgium, Croatia, Cyprus, Estonia, Finland, France, Germany, Greece, Ir
 
 Explanation
 
+<img width="1387" height="577" alt="image" src="https://github.com/user-attachments/assets/ce07ff08-5f48-4c6c-bc2f-33a0f4d82de9" />
+
+
 **The 2008 -2009 Global financial crisis** explains the decrease in GDP growth (as seen in GDP Growth rate.png) in both the EA and EU. Both economies however recovered fast due to various fiscal and monetary policies adopted by the EU and EA, most notably the European economic recovery plan (EERP) that was launched in 2008. 
 The European Central Bank (ECB) supported  the banking sector liquidity and accommodated for  funding needs through:
 increase of deposit insurance ceilings,

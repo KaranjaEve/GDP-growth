@@ -66,7 +66,8 @@ Following the pandemic recovery, the  2021 -2022 energy crisis intensified by ge
 
 **2024**
 
-!(figures/GDP_Growth_EU_Members_2024.png)
+![GDP Growth Chart](figures/GDP_Growth_EU_Members_2024.png)
+
 
 We further evaluate the GDP growth rates of individual EU member states in 2024. Austria experienced the most significant decline, with a contraction of over 1%. The majority of countries performed above the EU average, with Malta leading the bloc with an impressive GDP growth rate of 5.9%.
 

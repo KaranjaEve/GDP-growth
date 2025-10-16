@@ -65,7 +65,8 @@ However due to the existing fiscal and monetary frameworks established in both t
 Following the pandemic recovery, the  2021 -2022 energy crisis intensified by geo-political tensions and reduced gas supplies from Ukraine, resulted to a further decline in GDP growth. In response, the EU and EA adopted policies aimed at  stabilizing energy prices ,reducing  their dependency on Russian gas and accelerating transition to clean and renewable energy sources. 
 
 **2024**
-![Alt text](figures/GDP_Growth_EU_Members_2024.png)
+
+!(figures/GDP_Growth_EU_Members_2024.png)
 
 We further evaluate the GDP growth rates of individual EU member states in 2024. Austria experienced the most significant decline, with a contraction of over 1%. The majority of countries performed above the EU average, with Malta leading the bloc with an impressive GDP growth rate of 5.9%.
 
